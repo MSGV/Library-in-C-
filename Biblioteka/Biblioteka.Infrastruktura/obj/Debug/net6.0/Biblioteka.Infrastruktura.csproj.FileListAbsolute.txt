@@ -1,0 +1,12 @@
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\bin\Debug\net6.0\Biblioteka.Infrastruktura.deps.json
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\bin\Debug\net6.0\Biblioteka.Infrastruktura.dll
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\bin\Debug\net6.0\Biblioteka.Infrastruktura.pdb
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\obj\Debug\net6.0\Biblioteka.Infrastruktura.csproj.AssemblyReference.cache
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\obj\Debug\net6.0\Biblioteka.Infrastruktura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\obj\Debug\net6.0\Biblioteka.Infrastruktura.AssemblyInfoInputs.cache
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\obj\Debug\net6.0\Biblioteka.Infrastruktura.AssemblyInfo.cs
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\obj\Debug\net6.0\Biblioteka.Infrastruktura.csproj.CoreCompileInputs.cache
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\obj\Debug\net6.0\Biblioteka.Infrastruktura.dll
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\obj\Debug\net6.0\refint\Biblioteka.Infrastruktura.dll
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\obj\Debug\net6.0\Biblioteka.Infrastruktura.pdb
+C:\Users\ognje\Desktop\Github\Burke\BibliotekaBurke\Biblioteka\Biblioteka.Infrastruktura\obj\Debug\net6.0\ref\Biblioteka.Infrastruktura.dll
