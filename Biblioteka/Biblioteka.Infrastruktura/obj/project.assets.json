@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka\\Biblioteka.Infrastruktura\\Biblioteka.Infrastruktura.csproj",
+      "projectUniqueName": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka.Infrastruktura\\Biblioteka.Infrastruktura.csproj",
       "projectName": "Biblioteka.Infrastruktura",
-      "projectPath": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka\\Biblioteka.Infrastruktura\\Biblioteka.Infrastruktura.csproj",
+      "projectPath": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka.Infrastruktura\\Biblioteka.Infrastruktura.csproj",
       "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka\\Biblioteka.Infrastruktura\\obj\\",
+      "outputPath": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka.Infrastruktura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

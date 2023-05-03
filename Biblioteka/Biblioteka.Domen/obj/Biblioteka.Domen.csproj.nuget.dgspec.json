@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka\\Biblioteka.Domen\\Biblioteka.Domen.csproj": {}
+    "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka.Domen\\Biblioteka.Domen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka\\Biblioteka.Domen\\Biblioteka.Domen.csproj": {
+    "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka.Domen\\Biblioteka.Domen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka\\Biblioteka.Domen\\Biblioteka.Domen.csproj",
+        "projectUniqueName": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka.Domen\\Biblioteka.Domen.csproj",
         "projectName": "Biblioteka.Domen",
-        "projectPath": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka\\Biblioteka.Domen\\Biblioteka.Domen.csproj",
+        "projectPath": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka.Domen\\Biblioteka.Domen.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka\\Biblioteka.Domen\\obj\\",
+        "outputPath": "C:\\Users\\Legion\\Desktop\\GitHub\\Biblioteka\\Biblioteka.Domen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
